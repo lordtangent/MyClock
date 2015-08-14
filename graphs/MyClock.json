@@ -137,7 +137,7 @@
         "animationFrame": {
             "component": "dom/RequestAnimationFrame",
             "metadata": {
-                "x": 36,
+                "x": 0,
                 "y": 432,
                 "width": 72,
                 "height": 72,
@@ -157,8 +157,8 @@
         "makeMinuteRotation": {
             "component": "math/Divide",
             "metadata": {
-                "x": 617,
-                "y": 325,
+                "x": 612,
+                "y": 324,
                 "width": 72,
                 "height": 72,
                 "label": "makeMinuteRotation"
@@ -167,8 +167,8 @@
         "core/Kick_qr1da": {
             "component": "core/Kick",
             "metadata": {
-                "x": -144,
-                "y": 432,
+                "x": -108,
+                "y": 396,
                 "label": "core/Kick",
                 "width": 72,
                 "height": 72
